@@ -1,0 +1,19 @@
+.wrapper {
+    margin: 0 30px;
+}
+
+.label {
+    margin: 5px;
+}
+
+.input-text {
+    margin: 5px;
+}
+
+.button {
+    margin: 15px 15px 15px 5px;
+}
+
+.cancel-button {
+    margin: 15px 15px 15px 5px;
+}
